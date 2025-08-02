@@ -1,2 +1,6 @@
-D:\advance c++\game1\Game.cpp;D:\advance c++\game1\game1\x64\Debug\Game.obj
-D:\advance c++\game1\glad.c;D:\advance c++\game1\game1\x64\Debug\glad.obj
+D:\GitHub\game1\game1\src\Game.cpp;D:\GitHub\game1\game1\game1\x64\Debug\Game.obj
+D:\GitHub\game1\game1\glad.c;D:\GitHub\game1\game1\game1\x64\Debug\glad.obj
+D:\GitHub\game1\game1\src\indexBuffer.cpp;D:\GitHub\game1\game1\game1\x64\Debug\indexBuffer.obj
+D:\GitHub\game1\game1\src\ShaderClass.cpp;D:\GitHub\game1\game1\game1\x64\Debug\ShaderClass.obj
+D:\GitHub\game1\game1\src\vertexArray.cpp;D:\GitHub\game1\game1\game1\x64\Debug\vertexArray.obj
+D:\GitHub\game1\game1\src\vertexBuffer.cpp;D:\GitHub\game1\game1\game1\x64\Debug\vertexBuffer.obj
